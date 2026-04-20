@@ -53,6 +53,7 @@ I also do stand-up comedy which doesn't make a lot of sense to mention here but 
 
 [![Instagram](https://img.shields.io/badge/@agus.candioti-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agus_candioti)
 [![TikTok](https://img.shields.io/badge/@agus.candioti-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@agus_candioti)
+[![YouTube](https://img.shields.io/badge/@agus.candioti-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@aguscandioti)
 
 ---
 
