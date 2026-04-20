@@ -2,7 +2,8 @@
 
 DevOps Engineer by day · Comedian by night · Systems Engineer (in progress)
 
-Based in Campana, Argentina <img src="https://flagcdn.com/16x12/ar.png" alt="Argentina" width="16" height="12">. I'm into tech, comedy, and physics.
+Based in Argentina <img src="https://flagcdn.com/16x12/ar.png" alt="Argentina" width="16" height="12">
+I'm into tech, comedy, and physics.
 If something can be automated, I automate it. If it can't, what's the point?
 
 ---
