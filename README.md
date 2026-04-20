@@ -2,7 +2,7 @@
 
 DevOps Engineer by day · Comedian by night · Systems Engineer (in progress)
 
-Based in Campana, Argentina 🇦🇷. I'm into tech, comedy, and physics.
+Based in Campana, Argentina :argentina:. I'm into tech, comedy, and physics.
 If something can be automated, I automate it. If it can't, what's the point?
 
 ---
