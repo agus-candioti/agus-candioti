@@ -1,18 +1,22 @@
-# Hey, soy Agus 👋
+# Hey, I'm Agus 👋
 
-DevOps Engineer de día · Comediante de noche · Ingeniero en Sistemas (en proceso)
+DevOps Engineer by day · Comedian by night · Systems Engineer (in progress)
 
-Vivo en Campana, Argentina. Me apasionan la tecnología, la comedia y la física.
-Si algo puede automatizarse, lo automatizo. Si no puede automatizarse, hago un chiste al respecto.
+Based in Campana, Argentina. I'm into tech, comedy, and physics.
+If something can be automated, I automate it. If it can't, I make a joke about it.
 
 ---
 
-## 🛠️ Stack & herramientas
+## 🛠️ Stack & tools
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=kubernetes&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -35,20 +39,20 @@ Si algo puede automatizarse, lo automatizo. Si no puede automatizarse, hago un c
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-- 🚗 **[remisesUnoV2](https://github.com/agus-candioti/remisesUnoV2)** — Landing page para una empresa de remises, deployada en Firebase Hosting
-- 🤖 **Azure OpenAI Chatbot** — Asistente interno para equipos de ingeniería (privado)
-- 🏠 **Self-hosted Homelab** — K3s + MetalLB + Docker sobre Raspberry Pi 5
+- 🚗 **[remisesUnoV2](https://github.com/agus-candioti/remisesUnoV2)** — Landing page for a ride-hailing company, deployed on Firebase Hosting
+- 🤖 **Azure OpenAI Chatbot** — Internal assistant for engineering teams (private)
+- 🏠 **Self-hosted Homelab** — K3s + MetalLB + Docker running on a Raspberry Pi 5
 
 ---
 
-## 🎙️ Más allá del código
+## 🎙️ Beyond the code
 
-Sí, también hago comedia. No, no son chistes de programación (bueno, a veces).
+I also do stand-up comedy which doesn't make a lot of sense to mention here but hey what can you do right?
 
-[![Instagram](https://img.shields.io/badge/@agus.candioti-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agus.candioti)
-[![TikTok](https://img.shields.io/badge/@agus.candioti-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@agus.candioti)
+[![Instagram](https://img.shields.io/badge/@agus.candioti-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/agus_candioti)
+[![TikTok](https://img.shields.io/badge/@agus.candioti-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@agus_candioti)
 
 ---
 
